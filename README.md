@@ -5,7 +5,7 @@
 - Aspiring Game Developer
 
 
-![Brendan's GitHub stats](https://github-readme-stats-fbwst9dq4-brendanmayers-projects.vercel.app/api?username=BrendanMayer&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendanMayer)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ##  My Coding Languages
