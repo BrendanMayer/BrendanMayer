@@ -4,11 +4,6 @@
 - Computer Science Graduate
 - Aspiring Game Developer
 
-
-## Skills
-- Languages: Python, C#, C++, Java
-- Tools: Git, Unity, Blender, Linux
-
   <a href="https://github.com/BrendanMayer">
     <img height="180em" align="center" alt="BrendanMayer" src="https://github-readme-stats.vercel.app/api?username=BrendanMayer&show_icons=true&count_private=true" />
   </a>
@@ -22,6 +17,10 @@
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 
-
-
-
+#Tools I Use
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Gitea](https://img.shields.io/badge/Gitea-6eaa5b?logo=gitea&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
