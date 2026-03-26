@@ -5,17 +5,7 @@
 - Aspiring Game Developer
 
 
-<div align="center">
-
-<a href="https://github.com/BrendanMayer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrendanMayer&show_icons=true&cache_seconds=86400" />
-</a>
-
-<a href="https://github.com/BrendanMayer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanMayer&layout=compact&cache_seconds=86400" />
-</a>
-
-</div>
+![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendanMayer&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <br>
 
 ##  My Coding Languages
