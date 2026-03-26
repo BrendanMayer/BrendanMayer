@@ -5,15 +5,16 @@
 - Aspiring Game Developer
 
 
-  <div align="center" style="display: inline-flex">
+<div align="center">
 
-  <a href="https://github.com/BrendanMayer">
-    <img height="180em" align="center" alt="BrendanMayer" src="https://github-readme-stats.vercel.app/api?username=BrendanMayer&show_icons=true&count_private=true" />
-  </a>
-  
-  <a href="https://github.com/BrendanMayer">
-    <img height="180em" align="center" alt="BrendanMayer" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanMayer&layout=compact&count_private=false" />
-  </a>
+<a href="https://github.com/BrendanMayer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrendanMayer&show_icons=true&cache_seconds=86400" />
+</a>
+
+<a href="https://github.com/BrendanMayer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanMayer&layout=compact&cache_seconds=86400" />
+</a>
+
 </div>
 <br>
 
