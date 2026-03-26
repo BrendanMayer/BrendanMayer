@@ -1,5 +1,5 @@
-# Hi there 👋 I'm Brendan Mayer
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+👋+I'm+Brendan+Mayer)
+
 ## About Me
 - Computer Science Graduate
 - Aspiring Game Developer
