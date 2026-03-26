@@ -9,9 +9,9 @@
 - Languages: Python, C#, C++, Java
 - Tools: Git, Unity, Blender, Linux
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrendanMayer&show_icons=true&theme=default)
 
 ##  My Coding Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanMayer&layout=compact)
 
 
