@@ -4,9 +4,18 @@
 - Computer Science Graduate
 - Aspiring Game Developer
 
+
+  <div align="center" style="display: inline-flex">
+
   <a href="https://github.com/BrendanMayer">
     <img height="180em" align="center" alt="BrendanMayer" src="https://github-readme-stats.vercel.app/api?username=BrendanMayer&show_icons=true&count_private=true" />
   </a>
+  
+  <a href="https://github.com/BrendanMayer">
+    <img height="180em" align="center" alt="BrendanMayer" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanMayer&layout=compact&count_private=false" />
+  </a>
+</div>
+<br>
 
 ##  My Coding Languages
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
