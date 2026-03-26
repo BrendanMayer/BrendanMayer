@@ -5,7 +5,7 @@
 - Aspiring Game Developer
 
 
-[![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendanMayer)](https://github.com/BrendanMayer)
+![GitHub Metrics](./github-metrics.svg)
 <br>
 
 ##  My Coding Languages
