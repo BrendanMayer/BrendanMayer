@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋 I'm Brendan Mayer
 
-<!--
-**BrendanMayer/BrendanMayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Computer Science Graduate
+- Aspiring Game Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Languages: Python, C#, C++, Java
+- Tools: Git, Unity, Blender, Linux
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+##  My Coding Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World;I+build+cool+stuff)
