@@ -9,26 +9,32 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Generate GitHub stats SVG
+      - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: BrendanMayer
+          filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: America/New_York
+          plugin_languages: yes
+          plugin_languages_limit: 8
 
-      - name: Commit generated files
+      - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git diff --cached --quiet || git commit -m "Update GitHub stats"
-          git push
+          git add github-metrics.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Update GitHub metrics"
+          git pull --rebase origin main
+          git push origin main
